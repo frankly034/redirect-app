@@ -9,7 +9,7 @@ This is a React app, bootstrapped using Vite. It is part of a tutorial series: `
 - [Built with](#built-with)
 - [Mock Designs](#mock-designs)
 - [Required Installations](#required-installations)
-- [Installation of This App](#instalation)
+- [Installation](#installation)
 - [License](#license)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -61,7 +61,7 @@ See mock design guides for the app below;
 
 <!-- INSTALLATION -->
 
-## Installation of This Repository
+## Installation
 
 Once you have installed the required packages, proceed with the following steps
 

@@ -1,0 +1,59 @@
+.Login {
+  display: flex;
+  justify-content: center;
+}
+
+.Login form button {
+  color: #caf0f8;
+  padding: 8px 16px;
+  border-radius: 5px;
+  background-color: #00b4d8;
+  font-weight: 900;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2rem;
+}
+
+.Login h3 {
+  margin: 1.2rem 0;
+}
+
+.Login form {
+  border-radius: 5px;
+  border: #ccc solid 1px;
+  width: 22rem;
+  padding: 1rem 2rem;
+  margin-top: 1rem;
+}
+
+.Login form label {
+  display: block;
+  font-size: 1.2rem;
+  margin-bottom: 8px;
+}
+
+.Login form div {
+  margin: 1rem 0;
+}
+
+.Login form input {
+  font-size: 1.2rem;
+  width: 20rem;
+  padding: 8px;
+}
+
+.Login p.information {
+  /* color: #caf0f8; */
+  color: white;
+  background-color: #03045e;
+  padding: 1rem;
+  margin-top: 1.2rem;
+  border-radius: 5px;
+}
+
+.Login p.information span {
+  background-color: #00b4d8;
+  padding: 0.2rem 0.6rem;
+  margin-right: 0.5rem;
+  border-radius: 50%;
+}
