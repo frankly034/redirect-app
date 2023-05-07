@@ -1,0 +1,14 @@
+.NotFound h3 {
+  margin: 1.2rem 0;
+}
+
+.NotFound a {
+  text-decoration: none;
+  color: #caf0f8;
+  display: block;
+  padding: 8px 16px;
+  border-radius: 5px;
+  background-color: #00b4d8;
+  width: 5rem;
+  font-weight: 900;
+}
