@@ -50,8 +50,14 @@ This is a React app, bootstrapped using Vite. It is part of a tutorial series: `
 See mock design guides for the app below;
 
 - Email available at `http://localhost:8000/email.html` with CTA button directed to `/account`, however login is required to access this route. After login, user is redirected to `/account`, as earlier intended instead of the default `/dashboard`.
+  <img width="1440" alt="Screenshot 2023-05-08 at 00 18 53" src="https://user-images.githubusercontent.com/31358867/236707462-33487413-b90e-4748-93be-512a87cad324.png">
+
 - Login page.
+  <img width="1440" alt="Screenshot 2023-05-08 at 00 19 37" src="https://user-images.githubusercontent.com/31358867/236707481-8cff98ee-e622-4dfe-be57-2709e961df64.png">
+
 - Dashboard, account and not found pages.
+  <img width="1440" alt="Screenshot 2023-05-08 at 00 20 22" src="https://user-images.githubusercontent.com/31358867/236707503-debb4c6f-f67d-433a-a6a3-5cd6bd2df85e.png">
+  <img width="1440" alt="Screenshot 2023-05-08 at 00 20 48" src="https://user-images.githubusercontent.com/31358867/236707516-91e1c324-628c-4da1-a3b4-360e56b6e40c.png">
 
 <!-- REQUIRED INSTALLATION -->
 
