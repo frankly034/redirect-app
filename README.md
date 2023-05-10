@@ -1,6 +1,6 @@
 # React Redirect
 
-This is a React app, bootstrapped using Vite. It is part of a tutorial series: `Elegant react router redirect with URL redirection defense` ([See playlist](https://www.youtube.com/playlist?list=PLseH49SWn6vbkThN4BfSaI7KX-cLKUlzf)) to illustrate how to design and implement an elegant and low maintenance react redirection using the higher order component (HOC) and provider pattern.
+This is a React app, bootstrapped using Vite. It is part of a tutorial series: `Elegant react router redirect with URL redirection defense` ([See playlist](https://www.youtube.com/playlist?list=PLseH49SWn6valoxB6CpKp9wJle1RqKFlD)) to illustrate how to design and implement an elegant and low maintenance react redirection using the higher order component (HOC) and provider pattern.
 
 ## Table of Contents
 

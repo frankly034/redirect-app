@@ -1,6 +1,7 @@
 import { Route, Routes } from "react-router-dom";
 import { Layout } from "./components";
 import { AccountPage, DashboardPage, LoginPage, NotFoundPage } from "./pages";
+import withAuthenticator from "./components/auth/Authenticator";
 
 function App() {
   return (
@@ -15,4 +16,6 @@ function App() {
   );
 }
 
-export default App;
+const AppWithAuthenticator = withAuthenticator(App);
+
+export default AppWithAuthenticator;
