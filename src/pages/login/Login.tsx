@@ -1,5 +1,7 @@
+import { useLoggedInContext } from "../../context";
 import "./Login.css";
 const Login = () => {
+  const { logIn } = useLoggedInContext();
   return (
     <div className="Login">
       <div>
@@ -26,7 +28,7 @@ const Login = () => {
             />
           </div>
           <div>
-            <button type="button" onClick={() => null}>
+            <button type="button" onClick={logIn}>
               Login
             </button>
           </div>
